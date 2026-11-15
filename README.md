@@ -198,6 +198,12 @@ Detailed analysis: [Obstacle avoidance](docs/OBSTACLE_AVOIDANCE.md) · [Robot-si
 └── LICENSE
 ```
 
+## Chinese documentation (简体中文)
+
+简体中文硬件接线、安装上传、校准、故障排查和代码差异说明已单独整理，原英文文档与固件保持不变。
+
+**[Open the Chinese documentation hub / 打开中文文档](docs/zh-CN/README.md)**
+
 ## Technical documentation
 
 - [System architecture](docs/ARCHITECTURE.md)
