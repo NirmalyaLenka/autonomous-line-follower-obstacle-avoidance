@@ -26,7 +26,7 @@
 
 ## 原始项目资料
 
-- [英文项目 README](../../../../README.md)
+- [英文项目 README](../../README.md)
 - [硬件说明](../HARDWARE.md)
 - [接线说明](../WIRING.md)
 - [校准说明](../CALIBRATION.md)
