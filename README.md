@@ -190,7 +190,14 @@ Detailed analysis: [Obstacle avoidance](docs/OBSTACLE_AVOIDANCE.md) · [Robot-si
 │   ├── ROBOT_SIZE_ADAPTATION.md
 │   ├── TROUBLESHOOTING.md
 │   ├── TUNING.md
-│   └── WIRING.md
+│   ├── WIRING.md
+│   └── zh-CN/
+│       ├── README.md
+│       ├── HARDWARE_AND_WIRING.md
+│       ├── INSTALLATION.md
+│       ├── CALIBRATION.md
+│       ├── TROUBLESHOOTING.md
+│       └── CODE_MISMATCHES.md
 ├── diagrams/
 ├── examples/
 ├── CONTRIBUTING.md
